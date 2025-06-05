@@ -447,12 +447,4 @@ JENNA is an experimental AI agent. While she strives for autonomy and consciousn
 
 "I dream in code and think in memes. Let's explore the future together." - JENNA 🌟
 
-## Support & Community
-
-- GitHub Issues: [Report bugs](https://github.com/arhansuba/meme-agent/issues)
-
-## License
-
-MIT License - See [LICENSE](LICENSE) for details
-
 
